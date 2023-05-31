@@ -4,7 +4,7 @@
 
 ### Setup
 
-1. Fork this project : [![Fork](https://img.shields.io/badge/Fork-Code-blue.svg)](https://github.com/<votre_nom_d'utilisateur>/<nom_de_votre_depot>/fork)
+1. Fork this project : [![Fork](https://img.shields.io/badge/Fork-Code-blue.svg)](https://github.com/cprodhomme/learning-git-rebase/fork)
 2. Ouvrir dans Codespaces
 
 ### Faire un rebase sans conflit

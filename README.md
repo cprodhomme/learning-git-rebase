@@ -1,11 +1,10 @@
 # Learning Git rebase
 
-## How to use
+## Comment débuter ?
 
-### Setup
+### Configuration
 
-1. Fork this project : [![Fork](https://img.shields.io/badge/Fork-Code-blue.svg)](https://github.com/cprodhomme/learning-git-rebase/fork)
-2. Ouvrir dans Codespaces
+- Fork ce projet : [![Fork](https://img.shields.io/badge/Fork-Code-blue.svg)](https://github.com/cprodhomme/learning-git-rebase/fork)
 
 ### Faire un rebase sans conflit
 - Aller sur la branche `rebase-sans-conflit` : 
@@ -16,3 +15,4 @@
 - Aller sur la branche `rebase-avec-conflit` :
 `git checkout rebase-avec-conflit`
 - Effectuer un rebase depuis la branche `main`. Un conflit devrait apparaitre, gérer le et push votre travail une fois le conflit résolu.
+Pour résoudre ce conflit, choissisez l'écriture suivante : "Hello world !"
